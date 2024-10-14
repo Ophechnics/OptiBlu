@@ -1,4 +1,4 @@
-# OptiBlu
+# OptiBlu- Trypan Blue Ophthalmic Solution
 About This Item
 Sterile, progen free solution of purified Trypan Blue
 Indicated for staining of ocular tissues during capsulorhexis and during retinal surgery
